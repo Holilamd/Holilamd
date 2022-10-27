@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **PHP,Go,Postgresql,mysql, express**
+- 💬 Ask me about **PHP,Go,Spring Boot,Postgresql,mysql, express**
 
 - 📫 How to reach me **holil.amd@gmail.com**
 
